@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="60e51139-00a8-4841-b50e-7e54ee492b3f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
+=======
+    <list default="true" id="60e51139-00a8-4841-b50e-7e54ee492b3f" name="Default Changelist" comment="" />
+>>>>>>> middle-1
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +22,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+<<<<<<< HEAD
+=======
+              <folding>
+                <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> middle-1
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor" />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+>>>>>>> middle-1
         </entry>
       </file>
     </leaf>
@@ -55,8 +73,13 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="156" />
     <option name="y" value="480" />
+=======
+    <option name="x" value="625" />
+    <option name="y" value="58" />
+>>>>>>> middle-1
     <option name="width" value="848" />
     <option name="height" value="656" />
   </component>
@@ -112,15 +135,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550541155870</updated>
-      <workItem from="1550541158599" duration="2518000" />
+      <workItem from="1550541158599" duration="4861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="156" y="480" width="848" height="656" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="4861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="625" y="58" width="848" height="656" extended-state="0" />
+    <editor active="true" />
+>>>>>>> middle-1
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -150,10 +181,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> middle-1
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> middle-1
         </state>
       </provider>
     </entry>
